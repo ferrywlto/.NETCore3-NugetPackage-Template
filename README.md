@@ -1,9 +1,7 @@
 # .NET Core 3 C# Nuget Package Repository Template 
 
 ![.NET Core Package Release](https://github.com/VerdantSparks/.NETCore3-NugetPackage-Template/workflows/.NET%20Core%20Package%20Release/badge.svg)
-
 ![.NET Core CI](https://github.com/VerdantSparks/.NETCore3-NugetPackage-Template/workflows/.NET%20Core%20CI/badge.svg)
- 
 ![CodeFactor](https://www.codefactor.io/repository/github/VerdantSparks/.NETCore3-NugetPackage-Template/badge)
 
 Using this repo to save time from editing .gitignore to ignore MacOS and JetBrains file on top of Visual Studio setting.
